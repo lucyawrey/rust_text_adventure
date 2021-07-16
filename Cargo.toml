@@ -1,5 +1,5 @@
 [package]
-name = "dnd_text_adventure"
+name = "rust_text_adventure"
 version = "0.1.0"
 edition = "2018"
 
