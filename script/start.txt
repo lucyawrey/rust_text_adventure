@@ -6,5 +6,6 @@ You awake in a dim cave, lit only by strange glowing lines of rock in the strata
 
 Lucy is Cool!
 
-The End!
->end
+You enter another cave!
+
+>warp cave 1
